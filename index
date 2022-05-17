@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Шаурма</title>
+</head>
+<body>
+ <p>   
+<table
+border="10"
+align="center"
+rules="rows"
+style="width:60%;">
+<tr>
+<td>
+<table
+border="5"
+background="images/168.png"
+bgcolor="#00FF7F"
+cellpadding="10"
+style="width:100%; border-radius:5px;">
+<tr>
+<th>
+<h1>Шаурма на заказ</h1>
+<h3>самая вкусный шаура в мире</h3>
+</th>
+</tr>
+</table>
+<table
+border="1"
+bgcolor="#32CD32"
+cellpadding="10"
+style="width:100%; border-radius:5px;">
+<tr>
+<td
+rowspan="2"
+style="width:80%">
+<h2>Шаурма</h2>
+<p style="text-indent:20px">
+Здравствуйте мои дорогие покупатели.
+Меня зовут Гаараджан и я занимаюсь помощью.
+Я раньше готовил шаурму из песка.</p>
+<img
+<a href="https://eda.ru/recepty/vypechka-deserty/klassicheskie-kapkejki-47693">
+<p style="text-indent:20px">Я занимаюсь готовкой шаурмы чтобы помогать грустным и растерянным людям.</p>
+</td>
+<td bgcolor="#20B2AA">
+<h3>Извини пришлось продать ссылки а то мы не можим пакупать писок</h3>
+<p>
+<p>
+<a href="https://mixplant.ru/pesok-dlya-pesochnitsy">
+<img src="https://cdn0.youla.io/files/images/720_720_out/61/0d/610d03fee92c9c569346f5ef-1.jpg" width="20" height="20"> 
+<span style="margin-left:5px;"></span></a
+</p>
+<p>
+<a href="https://eda.ru/recepty/vypechka-deserty/klassicheskie-kapkejki-47693">
+<span style="margin-left:5px;"></span;></a>
+</p>
+<p>
+<a e-logo.png" width="20" height="20">
+<span style="margin-left:5px;"></span></a>
+</p>
+</td>
+</tr>
+<tr>
+<td
+bgcolor="#3CB371"
+align="center">
+<h3>Реклама</h3>
+<p>Захади на саит Алибаба и пакупай свежий сока вижималька </p>
+  <p>Ссильки нет патаму што я все ящё бедный </p>
+</td>
+</tr>
+</table>
+<table
+border="1"
+bgcolor="#FF4500"
+height="100"
+cellpadding="10"
+style="width:100%; border-radius:5px;">
+<tr>
+<th>
+<h3>Не смотри в подвал братан</h3>
+</th>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
